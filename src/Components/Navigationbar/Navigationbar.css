@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital@1&display=swap');
+.navvv{
+    font-family: 'Comic Neue', cursive;
+    font-size: 25px;
+}
+.nav-pills .home .nav-link.active,.nav-pills .wid .nav-link.active,.nav-pills .cal .nav-link.active,.nav-pills .work .nav-link.active{
+    background-color:  #b8e6a5
+}
+
